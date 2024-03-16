@@ -1,0 +1,135 @@
+.div1{
+    margin-top: -5px;
+    margin-left: 54px;
+
+}
+.div2{
+    font-family: "Kaisei HarunoUmi";
+    font-size: 30px;
+    color: #5f078a;
+    margin-top: -1165px;
+    margin-left: 70px;
+}
+.div3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    color: #5f078a;
+    margin-top: 65px;
+    margin-left: 180px;
+}
+.div4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: smaller;
+    margin-top: 12px;
+    margin-left: 180px;
+}
+a{
+    color: #4b4b4b; 
+    text-decoration: none;
+}
+.contents{ 
+    text-align: right;
+    margin-right: 100px;
+    margin-top: -740px;
+}
+.btn1{
+    color: rgb(27, 26, 26);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: white;
+    border: solid 1px white;
+}
+.btn1:hover{
+    color: #5f078a;
+}
+.heading{
+    color: #363636; ;
+    font-family: "Kaisei HarunoUmi";
+    font-weight: 500;
+    font-size: 19px;
+    margin-top: 130px;
+    margin-left: 550px;
+}
+.paragraph{
+    color: rgb(102, 101, 101);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-size: 17px;
+    margin-top: 18px;
+    margin-left: 550px;
+}
+.container_2{
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.inp{
+    width: 550px;
+    height: 50px;
+    border: solid 1px rgb(195, 198, 198);
+    background-color: white ;
+    border-radius: 3px;
+    padding-left: 10px;
+    margin-top: 12px;
+}
+.inp1{
+    width: 564px;
+}
+.inp2{
+    height: 100px;
+    padding-top: 10px;
+}
+.button{
+    margin-left: 400px;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 500px;
+    font-size: 19px;
+    font-weight: 600;
+    margin-top: 10px;
+    background-color: white;
+    border: solid 2px #5f078a ;
+    color: #5f078a ;
+}
+.place1{
+    margin-top: 65px;
+    margin-left: -480px;
+}
+.para1{  
+    margin-left: -480px;
+    font-size: 15px;
+}
+
+.Call_btn2{
+    color: #5f078a;
+    background-color: transparent; 
+    border: solid 0px white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 65px;
+}
+.place2{
+    margin-top: -227px;
+    margin-left: 900px;
+}
+.para2{
+    margin-left: 900px;
+    font-size: 15px;
+}
+.Call_btn3{
+   margin-left: 895px; 
+}
+.btn2{
+    font-size: 24px;
+    margin-left: 65px;
+    color: #363636;
+    background-color: white;
+}
+.social_icons{
+    margin-right: 344px;
+}
